@@ -1,4 +1,4 @@
-git status \n
+git status <br>
 git add {file name } \n
 git push origin {branch name}
 git pull
